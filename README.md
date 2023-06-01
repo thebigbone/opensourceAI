@@ -31,7 +31,8 @@ This is a collection of various repositories related to open source AI projects 
 - [biogpt](https://github.com/microsoft/BioGPT): BioGPT is a GPT model specialized in generating text related to biology and life sciences.
 - [bibigpt](https://github.com/JimmyLv/BibiGPT): One-click AI Summary for video & audio content
 - [whatsapp-gpt](https://github.com/danielgross/whatsapp-gpt): WhatsApp-GPT is a project that integrates GPT models into the WhatsApp messaging platform.
-- [localgpt](https://github.com/PromtEngineer/localGPT):Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.
+- [localgpt](https://github.com/PromtEngineer/localGPT): Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.
+- [LocalAI](https://github.com/go-skynet/LocalAI): Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. No GPU required.
 
 ## Security
 
