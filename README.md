@@ -36,6 +36,9 @@ This is a collection of various repositories related to open source AI projects 
 - [DorkGPT](https://dorkgpt.com/): Generate google dorks with AI
 - [FlagAI](https://github.com/FlagAI-Open/FlagAI): is a fast, easy-to-use and extensible toolkit for large-scale model.
 - [audiocraft](https://github.com/facebookresearch/audiocraft): Audiocraft is a library for audio processing and generation with deep learning
+- [SuperAGI](https://github.com/TransformerOptimus/SuperAGI): A dev-first open source autonomous AI agent framework.
+- [OpenChat](https://github.com/openchatai/OpenChat): LLMs custom-chatbots console
+- [mlc-llm](https://github.com/mlc-ai/mlc-llm): Enable everyone to develop, optimize and deploy AI models natively on everyone's devices.
 
 
 ## Security
