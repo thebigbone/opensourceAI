@@ -35,6 +35,7 @@ This is a collection of various repositories related to open source AI projects 
 - [LocalAI](https://github.com/go-skynet/LocalAI): Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. No GPU required.
 - [DorkGPT](https://dorkgpt.com/): Generate google dorks with AI
 - [FlagAI](https://github.com/FlagAI-Open/FlagAI): is a fast, easy-to-use and extensible toolkit for large-scale model.
+- [audiocraft](https://github.com/facebookresearch/audiocraft): Audiocraft is a library for audio processing and generation with deep learning
 
 
 ## Security
