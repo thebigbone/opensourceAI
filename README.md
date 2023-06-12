@@ -34,6 +34,9 @@ This is a collection of various repositories related to open source AI projects 
 - [localgpt](https://github.com/PromtEngineer/localGPT): Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.
 - [LocalAI](https://github.com/go-skynet/LocalAI): Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. No GPU required.
 - [DorkGPT](https://dorkgpt.com/): Generate google dorks with AI
+- [FlagAI](https://github.com/FlagAI-Open/FlagAI): is a fast, easy-to-use and extensible toolkit for large-scale model.
+
+
 ## Security
 
 - [pestestgpt](https://github.com/GreyDGL/PentestGPT): PentestGPT focuses on using GPT models for penetration testing and security-related tasks.
