@@ -39,6 +39,7 @@ This is a collection of various repositories related to open source AI projects 
 - [SuperAGI](https://github.com/TransformerOptimus/SuperAGI): A dev-first open source autonomous AI agent framework.
 - [OpenChat](https://github.com/openchatai/OpenChat): LLMs custom-chatbots console
 - [mlc-llm](https://github.com/mlc-ai/mlc-llm): Enable everyone to develop, optimize and deploy AI models natively on everyone's devices.
+- [musegpt](https://github.com/greynewell/musegpt): Run local LLMs inside your favorite digital audio workstation!
 
 
 ## Security
